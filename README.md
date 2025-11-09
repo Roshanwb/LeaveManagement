@@ -170,3 +170,14 @@ dotnet test
 - The project aims for clarity, correctness, and readability.
 
 ---
+
+## 10. Git Workflow Used
+
+The project follows a simple organization inspired by GitFlow:
+
+- **main**: stable version of the project
+- **dev**: development branch
+- **feature/***: branches dedicated to enhancements (via Pull Requests)
+- **release/***: preparing a release version
+
+This allows for a clear history and a distinct separation between stable code and ongoing development.
