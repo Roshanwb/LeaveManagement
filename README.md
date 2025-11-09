@@ -75,7 +75,7 @@ LeaveManagement/
 
 ### Clone repo
 ```bash
-git clone <repository-url>
+git clone https://github.com/Roshanwb/LeaveManagement.git
 cd LeaveManagement
 ```
 
