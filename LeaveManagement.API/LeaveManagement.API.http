@@ -1,0 +1,199 @@
+@LeaveManagement.API_HostAddress = http://localhost:7000
+@ContentType = application/json
+
+### Health Check - Verify API is running
+GET {{LeaveManagement.API_HostAddress}}/
+Accept: {{ContentType}}
+
+### Get Swagger UI documentation
+GET {{LeaveManagement.API_HostAddress}}/swagger
+Accept: text/html
+
+### Get all leave requests
+GET {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Accept: {{ContentType}}
+
+### Get leave request by ID
+@LeaveRequestId = 00000000-0000-0000-0000-000000000000
+GET {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/{{LeaveRequestId}}
+Accept: {{ContentType}}
+
+### Get leave requests by employee ID
+@EmployeeId = 12345678-1234-1234-1234-123456789abc
+GET {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/employee/{{EmployeeId}}
+Accept: {{ContentType}}
+
+### Create a new leave request - Vacation
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "12345678-1234-1234-1234-123456789abc",
+  "startDate": "2024-01-15",
+  "endDate": "2024-01-20",
+  "leaveType": 1,
+  "comments": "Summer vacation plans with family"
+}
+
+### Create a new leave request - Sick Leave
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "12345678-1234-1234-1234-123456789abc",
+  "startDate": "2024-02-01",
+  "endDate": "2024-02-03",
+  "leaveType": 2,
+  "comments": "Medical appointment"
+}
+
+### Create a new leave request - Personal
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "87654321-4321-4321-4321-210987654321",
+  "startDate": "2024-03-10",
+  "endDate": "2024-03-12",
+  "leaveType": 3,
+  "comments": "Personal matters"
+}
+
+### Create a leave request with invalid dates (should fail)
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "12345678-1234-1234-1234-123456789abc",
+  "startDate": "2024-01-20",
+  "endDate": "2024-01-15",
+  "leaveType": 1,
+  "comments": "Invalid date range"
+}
+
+### Create overlapping leave request (should fail)
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "12345678-1234-1234-1234-123456789abc",
+  "startDate": "2024-01-18",
+  "endDate": "2024-01-22",
+  "leaveType": 1,
+  "comments": "Overlapping with existing request"
+}
+
+### Approve a leave request
+@ApproveLeaveRequestId = 00000000-0000-0000-0000-000000000000
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/{{ApproveLeaveRequestId}}/approve
+Content-Type: {{ContentType}}
+
+{
+  "managerComments": "Approved! Enjoy your vacation. Please ensure handover is completed."
+}
+
+### Reject a leave request
+@RejectLeaveRequestId = 00000000-0000-0000-0000-000000000000
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/{{RejectLeaveRequestId}}/reject
+Content-Type: {{ContentType}}
+
+{
+  "managerComments": "Rejected due to high workload during this period. Please choose alternative dates."
+}
+
+### Approve leave request without comments
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/{{ApproveLeaveRequestId}}/approve
+Content-Type: {{ContentType}}
+
+{
+  "managerComments": ""
+}
+
+### Test error handling - Get non-existent leave request
+GET {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/99999999-9999-9999-9999-999999999999
+Accept: {{ContentType}}
+
+### Test error handling - Approve non-existent leave request
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/99999999-9999-9999-9999-999999999999/approve
+Content-Type: {{ContentType}}
+
+{
+  "managerComments": "This should fail"
+}
+
+### Test error handling - Reject non-existent leave request
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/99999999-9999-9999-9999-999999999999/reject
+Content-Type: {{ContentType}}
+
+{
+  "managerComments": "This should fail"
+}
+
+### Test with different employee
+@EmployeeId2 = 87654321-4321-4321-4321-210987654321
+GET {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/employee/{{EmployeeId2}}
+Accept: {{ContentType}}
+
+### Create maternity leave request
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "11111111-1111-1111-1111-111111111111",
+  "startDate": "2024-04-01",
+  "endDate": "2024-07-31",
+  "leaveType": 4,
+  "comments": "Maternity leave"
+}
+
+### Create paternity leave request
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "22222222-2222-2222-2222-222222222222",
+  "startDate": "2024-05-15",
+  "endDate": "2024-05-29",
+  "leaveType": 5,
+  "comments": "Paternity leave"
+}
+
+### Bulk operations test - Create multiple requests for same employee
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "33333333-3333-3333-3333-333333333333",
+  "startDate": "2024-06-01",
+  "endDate": "2024-06-05",
+  "leaveType": 1,
+  "comments": "First vacation"
+}
+
+###
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "33333333-3333-3333-3333-333333333333",
+  "startDate": "2024-08-15",
+  "endDate": "2024-08-25",
+  "leaveType": 1,
+  "comments": "Second vacation"
+}
+
+###
+POST {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests
+Content-Type: {{ContentType}}
+
+{
+  "employeeId": "33333333-3333-3333-3333-333333333333",
+  "startDate": "2024-12-20",
+  "endDate": "2024-12-31",
+  "leaveType": 1,
+  "comments": "Christmas vacation"
+}
+
+### Get all requests for bulk test employee
+GET {{LeaveManagement.API_HostAddress}}/api/v1/leaverequests/employee/33333333-3333-3333-3333-333333333333
+Accept: {{ContentType}}

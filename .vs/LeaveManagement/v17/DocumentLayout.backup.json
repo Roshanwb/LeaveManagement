@@ -1,0 +1,277 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.tests\\application\\leaverequestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|solutionrelative:leavemanagement.tests\\application\\leaverequestservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.tests\\application\\leaverequestservicevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|solutionrelative:leavemanagement.tests\\application\\leaverequestservicevalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.tests\\domain\\leaverequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|solutionrelative:leavemanagement.tests\\domain\\leaverequesttests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.api\\leavemanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\leavemanagement.api.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.application\\dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|solutionrelative:leavemanagement.application\\dtos\\leaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.application\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|solutionrelative:leavemanagement.application\\services\\leaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.application\\dtos\\updateleaverequeststatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|solutionrelative:leavemanagement.application\\dtos\\updateleaverequeststatusdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.application\\interfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|solutionrelative:leavemanagement.application\\interfaces\\ileaverequestservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\middleware\\exceptionhandlingmiddleware.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{91669067-D34F-4E2E-B3A8-FD906E015926}|LeaveManagement.Domain\\LeaveManagement.Domain.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.domain\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{91669067-D34F-4E2E-B3A8-FD906E015926}|LeaveManagement.Domain\\LeaveManagement.Domain.csproj|solutionrelative:leavemanagement.domain\\entities\\leaverequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.application\\dtos\\createleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1C2293D2-52D4-4ACB-BD38-686779339844}|LeaveManagement.Application\\LeaveManagement.Application.csproj|solutionrelative:leavemanagement.application\\dtos\\createleaverequestdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.api\\controllers\\v1\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\controllers\\v1\\leaverequestscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.tests\\domain\\daterangetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|solutionrelative:leavemanagement.tests\\domain\\daterangetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.tests\\domain\\leaverequestvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C3856139-8B1C-41FE-84DB-F018EC1898E7}|LeaveManagement.Tests\\LeaveManagement.Tests.csproj|solutionrelative:leavemanagement.tests\\domain\\leaverequestvalidationtests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|e:\\non theocratic\\france travaille\\tests\\leavemanagement\\leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{00A54CFC-0B57-4561-BD95-CC3AEFF55489}|LeaveManagement.API\\LeaveManagement.API.csproj|solutionrelative:leavemanagement.api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LeaveRequestServiceTests.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Application\\LeaveRequestServiceTests.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Tests\\Application\\LeaveRequestServiceTests.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Application\\LeaveRequestServiceTests.cs",
+              "RelativeToolTip": "LeaveManagement.Tests\\Application\\LeaveRequestServiceTests.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAowDcAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:14:45.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LeaveManagement.API.http",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\LeaveManagement.API.http",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\LeaveManagement.API.http",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\LeaveManagement.API.http",
+              "RelativeToolTip": "LeaveManagement.API\\LeaveManagement.API.http",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAIwFYAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2025-11-08T14:13:18.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LeaveRequestService.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\Services\\LeaveRequestService.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Application\\Services\\LeaveRequestService.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\Services\\LeaveRequestService.cs",
+              "RelativeToolTip": "LeaveManagement.Application\\Services\\LeaveRequestService.cs",
+              "ViewState": "AgIAAEcAAAAAAAAAAAAgwFUAAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:02:05.746Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "LeaveRequestDto.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\DTOs\\LeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Application\\DTOs\\LeaveRequestDto.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\DTOs\\LeaveRequestDto.cs",
+              "RelativeToolTip": "LeaveManagement.Application\\DTOs\\LeaveRequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAqwAQAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:47:38.13Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LeaveRequestTests.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Domain\\LeaveRequestTests.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Tests\\Domain\\LeaveRequestTests.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Domain\\LeaveRequestTests.cs",
+              "RelativeToolTip": "LeaveManagement.Tests\\Domain\\LeaveRequestTests.cs",
+              "ViewState": "AgIAAEwAAAAAAAAAAAA8wGUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:49:05.943Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LeaveRequestServiceValidationTests.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Application\\LeaveRequestServiceValidationTests.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Tests\\Application\\LeaveRequestServiceValidationTests.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Application\\LeaveRequestServiceValidationTests.cs",
+              "RelativeToolTip": "LeaveManagement.Tests\\Application\\LeaveRequestServiceValidationTests.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAA1wBgAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:52:15.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "UpdateLeaveRequestStatusDto.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\DTOs\\UpdateLeaveRequestStatusDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Application\\DTOs\\UpdateLeaveRequestStatusDto.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\DTOs\\UpdateLeaveRequestStatusDto.cs",
+              "RelativeToolTip": "LeaveManagement.Application\\DTOs\\UpdateLeaveRequestStatusDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:47:02.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ILeaveRequestService.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\Interfaces\\ILeaveRequestService.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Application\\Interfaces\\ILeaveRequestService.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\Interfaces\\ILeaveRequestService.cs",
+              "RelativeToolTip": "LeaveManagement.Application\\Interfaces\\ILeaveRequestService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:47:42.864Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Properties\\launchSettings.json",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\Properties\\launchSettings.json",
+              "RelativeToolTip": "LeaveManagement.API\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAqAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-07T01:43:57.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ExceptionHandlingMiddleware.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Middleware\\ExceptionHandlingMiddleware.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T21:01:22.322Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "LeaveRequest.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Domain\\Entities\\LeaveRequest.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Domain\\Entities\\LeaveRequest.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Domain\\Entities\\LeaveRequest.cs",
+              "RelativeToolTip": "LeaveManagement.Domain\\Entities\\LeaveRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:48:40.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CreateLeaveRequestDto.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\DTOs\\CreateLeaveRequestDto.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Application\\DTOs\\CreateLeaveRequestDto.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Application\\DTOs\\CreateLeaveRequestDto.cs",
+              "RelativeToolTip": "LeaveManagement.Application\\DTOs\\CreateLeaveRequestDto.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:46:44.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "DateRangeTests.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Domain\\DateRangeTests.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Tests\\Domain\\DateRangeTests.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Domain\\DateRangeTests.cs",
+              "RelativeToolTip": "LeaveManagement.Tests\\Domain\\DateRangeTests.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-09T20:49:03.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "LeaveRequestsController.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\Controllers\\V1\\LeaveRequestsController.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Controllers\\V1\\LeaveRequestsController.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\Controllers\\V1\\LeaveRequestsController.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Controllers\\V1\\LeaveRequestsController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAmwB0AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:44:29.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "LeaveRequestValidationTests.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Domain\\LeaveRequestValidationTests.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.Tests\\Domain\\LeaveRequestValidationTests.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Tests\\Domain\\LeaveRequestValidationTests.cs",
+              "RelativeToolTip": "LeaveManagement.Tests\\Domain\\LeaveRequestValidationTests.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwBkAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T13:51:23.551Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\Program.cs",
+              "RelativeDocumentMoniker": "LeaveManagement.API\\Program.cs",
+              "ToolTip": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.API\\Program.cs",
+              "RelativeToolTip": "LeaveManagement.API\\Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwCAAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-08T12:01:01.873Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

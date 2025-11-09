@@ -1,0 +1,8 @@
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.API\obj\Debug\net9.0\LeaveManagement.API.csproj.AssemblyReference.cache
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.API\obj\Debug\net9.0\rpswa.dswa.cache.json
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.API\obj\Debug\net9.0\LeaveManagement.API.GeneratedMSBuildEditorConfig.editorconfig
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.API\obj\Debug\net9.0\LeaveManagement.API.AssemblyInfoInputs.cache
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.API\obj\Debug\net9.0\LeaveManagement.API.AssemblyInfo.cs
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.API\obj\Debug\net9.0\LeaveManagement.API.csproj.CoreCompileInputs.cache
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.API\obj\Debug\net9.0\LeaveManagement.API.MvcApplicationPartsAssemblyInfo.cs
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.API\obj\Debug\net9.0\LeaveManagement.API.MvcApplicationPartsAssemblyInfo.cache

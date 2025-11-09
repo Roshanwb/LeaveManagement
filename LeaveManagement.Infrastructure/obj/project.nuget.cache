@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "HavgTUJgA3U=",
+  "success": true,
+  "projectFilePath": "E:\\Non Theocratic\\France travaille\\Tests\\LeaveManagement\\LeaveManagement.Infrastructure\\LeaveManagement.Infrastructure.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rosha\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,11 @@
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\bin\Release\net8.0\LeaveManagement.Domain.deps.json
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\bin\Release\net8.0\LeaveManagement.Domain.dll
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\bin\Release\net8.0\LeaveManagement.Domain.pdb
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\obj\Release\net8.0\LeaveManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\obj\Release\net8.0\LeaveManagement.Domain.AssemblyInfoInputs.cache
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\obj\Release\net8.0\LeaveManagement.Domain.AssemblyInfo.cs
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\obj\Release\net8.0\LeaveManagement.Domain.csproj.CoreCompileInputs.cache
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\obj\Release\net8.0\LeaveManagement.Domain.dll
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\obj\Release\net8.0\refint\LeaveManagement.Domain.dll
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\obj\Release\net8.0\LeaveManagement.Domain.pdb
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement.Domain\obj\Release\net8.0\ref\LeaveManagement.Domain.dll

@@ -1,0 +1,15 @@
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\bin\Debug\net9.0\LeaveManagement.Application.deps.json
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\bin\Debug\net9.0\LeaveManagement.Application.dll
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\bin\Debug\net9.0\LeaveManagement.Application.pdb
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\bin\Debug\net9.0\LeaveManagement.Domain.dll
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\bin\Debug\net9.0\LeaveManagement.Domain.pdb
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\LeaveManagement.Application.csproj.AssemblyReference.cache
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\LeaveManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\LeaveManagement.Application.AssemblyInfoInputs.cache
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\LeaveManagement.Application.AssemblyInfo.cs
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\LeaveManagement.Application.csproj.CoreCompileInputs.cache
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\LeaveMan.11E40FD7.Up2Date
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\LeaveManagement.Application.dll
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\refint\LeaveManagement.Application.dll
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\LeaveManagement.Application.pdb
+E:\Non Theocratic\France travaille\Tests\LeaveManagement\LeaveManagement\LeaveManagement.Application\obj\Debug\net9.0\ref\LeaveManagement.Application.dll
