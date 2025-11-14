@@ -1,7 +1,7 @@
 # Leave Management System - Backend (.NET 8)
 
 A lightweight implementation of a Leave Management API built with **Hexagonal Architecture** and **Domain-Driven Design (DDD)**.  
-This project corresponds to **User Story 1 - Submit a Leave Request** from the TF1 technical test.
+
 
 ---
 
